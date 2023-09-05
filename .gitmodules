@@ -1,0 +1,6 @@
+[submodule "RBDReference"]
+	path = RBDReference
+	url = https://github.com/A2R-Lab/RBDReference.git
+[submodule "URDFParser"]
+	path = URDFParser
+	url = https://github.com/A2R-Lab/URDFParser.git
