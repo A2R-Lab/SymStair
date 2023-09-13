@@ -1,6 +1,6 @@
 # SymStair
 
-Numerical experiments for the paper: ["Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization"](https://arxiv.org/abs/TBD)
+Numerical experiments for the paper: ["Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization"](https://arxiv.org/abs/2309.06427)
 
 **This package contains submodules make sure to run ```git submodule update --init --recursive```** after cloning!
 
@@ -16,12 +16,12 @@ pip3 install -r requirements.txt
 ### Citing
 To cite this work in your research, please use the following bibtex:
 ```
-@misc{bu2023symStair,
-  title={Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization}, 
-  author={Xueyi Bu and Brian Plancher},
-  year={2023},
-  eprint={TBD},
-  archivePrefix={arXiv},
-  primaryClass={cs.RO}
+@misc{bu2023symmetric,
+    title={Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization}, 
+    author={Xueyi Bu and Brian Plancher},
+    year={2023},
+    eprint={2309.06427},
+    archivePrefix={arXiv},
+    primaryClass={math.OC}
 }
 ```
