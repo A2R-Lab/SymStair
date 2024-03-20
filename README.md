@@ -16,12 +16,12 @@ pip3 install -r requirements.txt
 ### Citing
 To cite this work in your research, please use the following bibtex:
 ```
-@misc{bu2023symmetric,
-    title={Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization}, 
-    author={Xueyi Bu and Brian Plancher},
-    year={2023},
-    eprint={2309.06427},
-    archivePrefix={arXiv},
-    primaryClass={math.OC}
+@inproceedings{bu2024symmetric,
+  title={Symmetric Stair Preconditioning of Linear Systems for Parallel Trajectory Optimization}, 
+  author={Xueyi Bu and Brian Plancher},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  address = {Yokohama, Japan},
+  month={May.},
+  year = {2024}
 }
 ```
